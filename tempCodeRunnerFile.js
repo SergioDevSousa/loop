@@ -1,7 +1,2 @@
-function inDescendingDirection(){
-//     for (let i = 10; i >= 0; i--){
-
-//         console.log(i)
-//     }
-// }
-// inDescendingDirection()
+}else{
+        alert(`Você digitou o número ${valor} e é um valor inválido`)
